@@ -5,7 +5,7 @@
 {
   "from": 0,
   "to": 16777215,
-  "i": "software"
+  "info": "software"
 }
 ```
 #### Resources
