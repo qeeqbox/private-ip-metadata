@@ -1,2 +1,14 @@
 # private-ip-metadata
-JSON file contains all private ip ranges with description
+
+#### Structure
+```js
+{
+  "from": 0,
+  "to": 16777215,
+  "i": "software"
+}
+```
+#### Resources
+- Wikipedia
+- QeeqBox OSINT
+
